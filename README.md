@@ -1,5 +1,5 @@
 # Text-Image-Super-Resolution-Reconstruction
-CS172 Final project: Text Image Super-Resolution Reconstruction
+Computer Vision Final Project, ShanghaiTech University
 
 Operation Manual for Codes
 
